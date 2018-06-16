@@ -28,13 +28,11 @@
 
 			<tr>
 				<td>Login</td>
-				<td><form:input path="email" /> <form:errors path="login"
-						cssClass="error" /></td>
+				<td><form:input path="email" /></td>
 			</tr>
 			<tr>
 				<td>Senha</td>
-				<td><form:input path="senha" /> <form:errors path="senha"
-						cssClass="error" /></td>
+				<td><form:input path="senha" /></td>
 			</tr>
 
 			<tr>
